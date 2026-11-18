@@ -1,0 +1,6 @@
+fastapi==0.115.8
+uvicorn[standard]==0.34.0
+yt-dlp==2026.10.26
+curl-cffi==0.17.0
+pydantic==2.10.6
+imageio-ffmpeg==0.8.1; platform_system == "Windows"

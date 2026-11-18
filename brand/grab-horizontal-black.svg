@@ -1,0 +1,10 @@
+<svg fill="#000000" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 170" width="640" height="170" role="img" aria-labelledby="title"><title>Grab horizontal logo</title>
+  <title id="title">Grab horizontal logo, light background</title>
+  <path fill="#000000" d="M36 34h184v48H36zM36 34h48v188H36zM36 174h184v48H36zM172 112h48v110h-48zM132 112h88v40h-88z" transform="translate(4 8) scale(.62)"/>
+  <g fill="none" stroke="#000000" stroke-width="18" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M250 50h-56v90h56v-36h-26"/>
+    <path d="M280 140V50h52l24 24v12l-24 24h-52m52 0 30 30"/>
+    <path d="m396 140 52-90 52 90m-83-36h62"/>
+    <path d="M534 140V52h48l22 22-22 22h-48m48 0 22 22-22 22h-48"/>
+  </g>
+</svg>

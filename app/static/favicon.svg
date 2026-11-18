@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Grab</title>
+  <path fill="#BF4328" d="M0 0h64v64H0z"/>
+  <path fill="#FFFCF5" d="M36 34h184v48H36zM36 34h48v188H36zM36 174h184v48H36zM172 112h48v110h-48zM132 112h88v40h-88z" transform="translate(1 1) scale(.24)"/>
+</svg>

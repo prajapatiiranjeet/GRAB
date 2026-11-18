@@ -1,0 +1,1 @@
+{"scripts":{"build":"vite build --configLoader runner","test":"node --test"},"dependencies":{"preact":"^10.26.4"},"devDependencies":{"@preact/preset-vite":"^2.10.1","vite":"^6.1.0"},"type":"module"}
